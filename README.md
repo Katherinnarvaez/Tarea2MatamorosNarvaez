@@ -11,7 +11,7 @@ PRIMERA PARTE: CONCEPTOS TEÓRIOCOS
 
   Git es un sistema de control de versiones de código de forma distribuida que permite trabajar en equipo cuando se desarrolla un software. Es una herramienta muy potente, diseñada por Linus Torvalds. De acuerdo con Rubio (2019) cuenta con las siguientes características:
  
-      -Es un software libre.
+       -Es un software libre.
       -No depende de un repositorio central.
       -Se puede mantener un historial de versiones completo.
       -Es muy rápido.
@@ -99,13 +99,24 @@ Bajo el contexto de pytest. ¿Qué es un “assert”?
 
 FUENTES CONSULTADAS
 
+
 Freitas, V. (2016) How to Use Flake8. Obtenido de https://simpleisbetterthancomplex.com/packages/2016/08/05/flake8.html
+
 GitHub Help. (2019) GitHub glossary. Obtenido de https://help.github.com/en/articles/github-glossary
+
 Gustavo B. (2019). Comandos básicos de GIT. Obtenido de https://www.hostinger.es/tutoriales/comandos-de-git
+
 Kinsta (2018). ¿Qués es GitHub? Una Guía para Principiantes sobre GitHub. Obtenido de https://kinsta.com/es/base-de-conocimiento/que-es-github/
+
 Martínez, H. (2005). Assert, era RE: Sobrecargar función. Obtenido de https://mail.python.org/pipermail/python-es/2005-February/007398.html
+
 Okken, B. (2019). Python testing with pytest. Obtenido de https://www.oreilly.com/library/view/python-testing-with/9781680502848/f_0006.xhtml
+
 Palacios, J. (2017). Los tres estados de Git. Obtenido de https://sargantanacode.es/post/the-three-states-of-git
+
 Pérez, A. (2011) Trabajando con GIT, introducción al uso de los branches y git-completion.bash. Obtenido de https://www.adictosaltrabajo.com/2011/06/27/git-branch-bash/
+
 Pro Git, 2da Edición, Capítulo 1.3: Las herramientas de Git - Guardado rápido provisional. Obtenido de https://git-scm.com/book/es/v1/Las-herramientas-de-Git-Guardado-r%C3%A1pido-provisional
+
 Rubio, J (2019). Qué es GIT y para qué sirve. Obtenido de https://openwebinars.net/blog/que-es-git-y-para-que-sirve/
+
