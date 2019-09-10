@@ -1,10 +1,9 @@
 # Tarea2MatamorosNarvaez
 
-Tarea No.2: GitHub, Pytest y Flake8
+Temas: GitHub, Pytest y Flake8
 
-Realizado por:
-Roberto Matamoros Gamboa    2016252162
-Katherin Narváez Núñez      2016123067
+Realizado por:      Roberto Matamoros Gamboa    2016252162      -     Katherin Narváez Núñez      2016123067
+
 
 PRIMERA PARTE: CONCEPTOS TEÓRIOCOS
 
